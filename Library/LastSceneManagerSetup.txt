@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/OV_E3/1. Scenes/E3.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
